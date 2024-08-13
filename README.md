@@ -16,6 +16,9 @@ Here I will show you how to set up and run this test.
     npm: npm run dev
     yarn: yarn run dev
 Once again, I would like to thank the company for giving me the opportunity to take this test, in the process there are still many shortcomings. I look forward to receiving feedback from you and the company.
+
 Yours faithfully
+
 Danh
+
 Tran Cong Danh
